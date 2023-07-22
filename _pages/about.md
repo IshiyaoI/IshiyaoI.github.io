@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 # About me
-
 I am an undergraduate student at University of Electronic Science and Technology of China. I'm interested in deep learning and its application to CV and AI4science. I am also a developer of augmented reality technology, and I designed and manufactured an augmented reality device by myself (which is my graduation project). I was a research intern at Oneflow Inc. and Chinese Academy of Sciences.
 
 ## Preprint
 BrickPal: Augmented Reality-based Assembly Instructions for Brick Models <br>
 [\[paper\]](https://doi.org/10.48550/arXiv.2307.03162)
 **Yao Shi**\*, Xiaofeng Zhang, Ran zhang, Zhou Yang, Xiao Tang, Hongni Ye, Yi Wu
+
+## Projects 
+BrickPal: Augmented Reality-based Assembly Instructions for Brick Models: [\[video\]](https://origami.dance/brickpal) <br>
+Augmented Reality System Realized Gesture Control Based on Computer Vision: [\[video\]](https://www.bilibili.com/video/BV1144y1v7ii)
 
 ## Patents
 2021.Method for eliminating redundant figure in image based on machine learning.CN Patent Application 202110880980.9. <br>
