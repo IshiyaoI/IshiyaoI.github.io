@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # About me
-I am an undergraduate student at University of Electronic Science and Technology of China. I'm interested in deep learning and its application to CV and AI4science. I am also a developer of augmented reality technology, and I designed and manufactured an augmented reality device by myself (which is my graduation project). I was a research intern at Oneflow Inc. and Chinese Academy of Sciences.
+I am an undergraduate student at University of Electronic Science and Technology of China. I'm interested in deep learning and its application to CV and HCI. I am also a developer of augmented reality technology, and I designed and manufactured an augmented reality device by myself (which is my graduation project). I was a research intern at Oneflow Inc. and Chinese Academy of Sciences.
 
 ## Preprint
 BrickPal: Augmented Reality-based Assembly Instructions for Brick Models <br>
