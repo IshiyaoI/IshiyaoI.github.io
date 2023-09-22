@@ -25,6 +25,9 @@ Augmented Reality System Realized Gesture Control Based on Computer Vision: [\[v
 2021.Deepfake traceability system based on big data federated learning architecture.CN Patent Application 202110919472.7. <br>
 
 ## Education Experience
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="images/uestc.jpg" /></dt><dt> University of Electronic Science and Technology of China</dt>
+<dd>Sep. 2019 - Jun. 2023</dd>
+<dd>B.E. in Software Engineering</dd>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/hkust.jpg" /></dt><dt> Hong Kong University of Science and Technology</dt>
 <dd>Sep. 2023</dd>
