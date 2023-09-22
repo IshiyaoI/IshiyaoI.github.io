@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yao Shi (石爻)"
   avatar           : "shiyao.jpg"
-  bio              : "A student of UESTC"
-  location         : "Currently at Shenzhen, China"
+  bio              : "PhD of HKUST"
+  location         : "Currently at GuangZhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "爻-石-329301288"
+  linkedin         : #"爻-石-329301288"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
