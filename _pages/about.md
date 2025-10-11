@@ -21,11 +21,17 @@ DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective,
 Changlun Li, **Yao Shi**, Yuyu Luo, Nan Tang
 
 ## Preprint
-BrickPal: Augmented Reality-based Assembly Instructions for Brick Models [[paper](https://doi.org/10.48550/arXiv.2307.03162)] <br>
-**Yao Shi**\*, Xiaofeng Zhang, Ran zhang, Zhou Yang, Xiao Tang, Hongni Ye, Yi Wu
+Reimagining a Vibrant Community-Centric Research Ecosystem <br>
+**Yao SHI**\*, Changlun Li\*, Yuxiang Guo\*, Yuyu Luo, Nan Tang 
+
+Goldman: Reading the Fed, Riding the Trend in Gold Markets with Multi-Agent LLMs <br>
+Qiqi Duan, Changlun Li, **Yao SHI**, Yizhang Zhu, Nan Tang, Yuyu Luo 
 
 Rise of the Community Champions: From Reviewer Crunch to Community Power [[paper](https://arxiv.org/pdf/2503.18336)] <br>
 Changlun Li\*, **Yao Shi**\*, Yuyu Luo, Nan Tang
+
+BrickPal: Augmented Reality-based Assembly Instructions for Brick Models [[paper](https://doi.org/10.48550/arXiv.2307.03162)] <br>
+**Yao Shi**\*, Xiaofeng Zhang, Ran zhang, Zhou Yang, Xiao Tang, Hongni Ye, Yi Wu
 
 ## Projects 
 DeepFund: Will LLMs Be Professional At Fund Investment? [[pages](https://www.paradoox.ai/)] [[code](https://github.com/HKUSTDial/DeepFund)]<br>
