@@ -36,7 +36,7 @@ BrickPal: Augmented Reality-based Assembly Instructions for Brick Models [[paper
 ## Projects 
 DeepFund: Will LLMs Be Professional At Fund Investment? [[pages](https://www.paradoox.ai/)] [[code](https://github.com/HKUSTDial/DeepFund)]<br>
 
-BrickPal: Augmented Reality-based Assembly Instructions for Brick Models: [[video\](https://origami.dance/brickpal)] <br>
+BrickPal: Augmented Reality-based Assembly Instructions for Brick Models: [[video](https://origami.dance/brickpal)] <br>
 
 Augmented Reality System Realized Gesture Control Based on Computer Vision: [[video](https://www.bilibili.com/video/BV1144y1v7ii)]
 
