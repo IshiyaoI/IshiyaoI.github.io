@@ -29,13 +29,21 @@ Changlun Li\*, **Yao Shi**\*, Yuyu Luo, Nan Tang
 
 ## Projects 
 DeepFund: Will LLMs Be Professional At Fund Investment? [[pages](https://www.paradoox.ai/)] [[code](https://github.com/HKUSTDial/DeepFund)]<br>
+
 BrickPal: Augmented Reality-based Assembly Instructions for Brick Models: [[video\](https://origami.dance/brickpal)] <br>
+
 Augmented Reality System Realized Gesture Control Based on Computer Vision: [[video](https://www.bilibili.com/video/BV1144y1v7ii)]
 
 ## Patents
-2021.Method for eliminating redundant figure in image based on machine learning.CN Patent Application 202110880980.9. <br>
-2021.Fast image composition method based on convolutional neural network.CN Patent Application 202110920914.X. <br>
-2021.Deepfake traceability system based on big data federated learning architecture.CN Patent Application 202110919472.7. <br>
+2025.Multi-agent-based Investment Decision Evaluation Method, System, Device and Medium. CN Patent Application 202511191493.6.<br>
+
+2025.Method, device, electronic equipment and medium for determining transaction decisions. CN Patent Application 202511152297.8. <br>
+
+2021.Method for eliminating redundant figure in image based on machine learning. CN Patent Application 202110880980.9. <br>
+
+2021.Fast image composition method based on convolutional neural network. CN Patent Application 202110920914.X. <br>
+
+2021.Deepfake traceability system based on big data federated learning architecture. CN Patent Application 202110919472.7. <br>
 
 ## Education Experience
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/hkust.jpg" /></dt><dt> Hong Kong University of Science and Technology</dt>
