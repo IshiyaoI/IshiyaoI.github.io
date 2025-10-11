@@ -8,16 +8,29 @@ redirect_from:
   - /about.html
 ---
 # About me
-I am currently a PhD student at HKUST(GZ) under the supervision of Prof.[Yuyu LUO](https://luoyuyu.vip/) and Prof.[Nan Tang](https://qcai.qcri.org/ntang/). I'm interested in augmented reality and its application to data analysis. I am also a developer of computer vision projects, and I designed and manufactured an augmented reality device by myself (which is my graduation project). 
+I am currently a PhD student at HKUST(GZ) under the supervision of Prof.[Yuyu LUO](https://luoyuyu.vip/) and Prof.[Nan Tang](https://nantang.github.io/). I'm interested in BCI(brain computer intereaction), AR(augmented reality) and their applications to data analysis. 
+
+## Publication
+Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking,  **NeurIPS 2025** [[paper](https://arxiv.org/pdf/2505.11065)] [[code](https://github.com/HKUSTDial/DeepFund)] <br>
+Changlun Li\*, **Yao Shi**\*, Chen Wang, Qiqi Duan, Runke Ruan, Weijie Huang, Haonan Long, Lijun Huang, Yuyu Luo, Nan Tang
+
+Augmenting realistic charts with virtual overlays, **CHI 2025** [[paper](https://arxiv.org/pdf/2505.11065)] <br>
+**Yao Shi**\*, Boyan Li, Yuyu Luo, Lei Chen, Nan Tang
+
+DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective, **IJCAI 2025** [[paper](https://arxiv.org/pdf/2503.18313)] <br>
+Changlun Li, **Yao Shi**, Yuyu Luo, Nan Tang
 
 ## Preprint
-BrickPal: Augmented Reality-based Assembly Instructions for Brick Models <br>
-[\[paper\]](https://doi.org/10.48550/arXiv.2307.03162)
+BrickPal: Augmented Reality-based Assembly Instructions for Brick Models [[paper](https://doi.org/10.48550/arXiv.2307.03162)] <br>
 **Yao Shi**\*, Xiaofeng Zhang, Ran zhang, Zhou Yang, Xiao Tang, Hongni Ye, Yi Wu
 
+Rise of the Community Champions: From Reviewer Crunch to Community Power [[paper](https://arxiv.org/pdf/2503.18336)] <br>
+Changlun Li\*, **Yao Shi**\*, Yuyu Luo, Nan Tang
+
 ## Projects 
-BrickPal: Augmented Reality-based Assembly Instructions for Brick Models: [\[video\]](https://origami.dance/brickpal) <br>
-Augmented Reality System Realized Gesture Control Based on Computer Vision: [\[video\]](https://www.bilibili.com/video/BV1144y1v7ii)
+DeepFund: Will LLMs Be Professional At Fund Investment? [[pages](https://www.paradoox.ai/)] [[code](https://github.com/HKUSTDial/DeepFund)]<br>
+BrickPal: Augmented Reality-based Assembly Instructions for Brick Models: [[video\](https://origami.dance/brickpal)] <br>
+Augmented Reality System Realized Gesture Control Based on Computer Vision: [[video](https://www.bilibili.com/video/BV1144y1v7ii)]
 
 ## Patents
 2021.Method for eliminating redundant figure in image based on machine learning.CN Patent Application 202110880980.9. <br>
