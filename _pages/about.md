@@ -12,7 +12,7 @@ I am currently a PhD student at HKUST(GZ) under the supervision of Prof.[Yuyu LU
 
 ## Publication
 Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking,  **NeurIPS 2025** [[paper](https://arxiv.org/pdf/2505.11065)] [[code](https://github.com/HKUSTDial/DeepFund)] <br>
-Changlun Li\*, **Yao Shi**\*, Chen Wang, Qiqi Duan, Runke Ruan, Weijie Huang, Haonan Long, Lijun Huang, Yuyu Luo, Nan Tang
+**Yao Shi**\*, Changlun Li\*, Chen Wang, Qiqi Duan, Runke Ruan, Weijie Huang, Haonan Long, Lijun Huang, Yuyu Luo, Nan Tang
 
 Augmenting realistic charts with virtual overlays, **CHI 2025** [[paper](https://arxiv.org/pdf/2505.11065)] <br>
 **Yao Shi**\*, Boyan Li, Yuyu Luo, Lei Chen, Nan Tang
